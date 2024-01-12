@@ -11,3 +11,9 @@ The player's rank in the league is calculated using the following logic:
 3. If two players are tied on score and number of games played, then the player who was first in the list of players is ranked higher.
 
 Implement the player_rank function that returns the player at the given rank.
+
+Video Link :
+https://drive.google.com/file/d/1trjROuJ8SKGhYbJQgIZqNjxSWWJ8ceKb/view?usp=sharing
+
+
+

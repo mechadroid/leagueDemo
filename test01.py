@@ -26,7 +26,7 @@ class LeagueTable:
             dummyData.append(keyData['games_played'])
             LeagueData.append(dummyData)
 
-        ranking = sorted(LeagueData,key=lambda score: (score[1],score[2]))
+        ranking = sorted(LeagueData,key=lambda score: (-score[1],score[2]))
         return ranking[rank][0]
 
 if __name__ == "__main__":

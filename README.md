@@ -12,8 +12,7 @@ The player's rank in the league is calculated using the following logic:
 
 Implement the player_rank function that returns the player at the given rank.
 
-Video Link :
-https://drive.google.com/file/d/1trjROuJ8SKGhYbJQgIZqNjxSWWJ8ceKb/view?usp=sharing
+
 
 
 
